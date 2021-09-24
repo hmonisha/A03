@@ -135,4 +135,20 @@ __Clone__ : This word means "copy" or "duplicate". In Github, we use the clone c
    
 __Commit__ : We can understand this command by thinking of the words "history" or "revision" because this command is used for saving your work and keeps a copy of every changes. It sends the newest changes to a repository. However, it only saves changes to our local repository.
    
-__Fetch__ : 
+__Fetch__ : This command downloads objects from another repository, such as branches, files, refs. This commands gives us the ability to view all of our current branches or changes in our remote repository without making local changes.
+
+__GIT__ : This is an Open Distributed Version Control System that is used for tracking changes in files. It helps people, or specifically developers, or those who share and coordinate their work, stay organized and up to date on their work. Various commands can be made in GIT to view different files, make changes, pull data, etc.
+
+__Github__ : This is a Git repository hosting service, which means it works with GIT. It also has features of its own. It provides access control and features, such as task management tools for projects. It provides cloud storage for soure code and supports all programming languages.
+
+__Merge__ : Helps integrate changes from one branch to another and can combines two branches together. It helps protects the code history by adding a new commit. 
+   
+__Merge Conflict__ : Occurs when merging or pulling from a branch because commits that you have in your current branch does not match the commits in the other branch. Github becomes confused as to which changes should be put into the final merge. Before making a pull request, all merge conflicts should be resolve.
+
+__Push__ : Uploads data and transfers commits from the local repository to the remote repository. It can also overwrite changes. 
+
+__Pull__ : It fetches and downloads data from the remote repository to the local repository.This is another method that inform others of changes made to your repository. 
+
+__Remote__ : A remote place where code is stored. It is hosted on a server or the internet where everyone in a team have the ability to access the same information. In Remote, everyone can push changes from their local repository and also pull changes to their local repository. 
+
+__Repository__ : Can be viewed as a place where things are stored. So, in Github, repositories are created to store code and other branches can be created for a repository to store more code or even images without each any information being affected by another. 
