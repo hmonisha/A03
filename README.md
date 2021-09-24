@@ -152,3 +152,10 @@ __Pull__ : It fetches and downloads data from the remote repository to the local
 __Remote__ : A remote place where code is stored. It is hosted on a server or the internet where everyone in a team have the ability to access the same information. In Remote, everyone can push changes from their local repository and also pull changes to their local repository. 
 
 __Repository__ : Can be viewed as a place where things are stored. So, in Github, repositories are created to store code and other branches can be created for a repository to store more code or even images without each any information being affected by another. 
+
+ 
+   
+REFERNECE:
+https://digital.gov/resources/an-introduction-github/
+https://guides.github.com/activities/hello-world/
+https://www.edureka.co/blog/how-to-use-github/
