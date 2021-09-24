@@ -115,5 +115,21 @@ NOW...
    - If successful, you will receive this message: Successfully shared project on GitHub
    
 PUSH CHANGE TO REMOTE REPOSITORY:
-- 
+- Locate "VSC" from the top on Webstorm, then "Git", and "Push" OR press Ctrl+Shift+K
+
+_Visit your repository to see the new file_
    
+SETUP GITHUB PAGES:
+- Click "setting" from the right, then check your repository name
+- Locate "Master Branch" and you will see the published URL
+
+FINAL STEP:
+- Test you URL by pasting your Github URL into a new browser
+   
+   
+Part 2: Glossary to include these terms in a bulleted list
+
+__Branch__ : The purpose of a branch in Github is to separate other codes without it being affected. Other "branches" or say pages can be created within a repository without the code in one page affecting another. Each repository has one main branch and can have various other branches as well. For example, my IS117-001 course can be called a repository (which we will define later) and the homeworks or projects required for that course can be viewed as branches. Each homework and project is different and requires different answers so I will have to make separate submissions. So, IS117 is my repository and my submissions for that course is known as my branches.
+__Clone__ : This word means "copy" or "duplicate". In Github, we use the clone command to create a copy (or download) of a repository OR a branch. This also gives us the ability to make changes locally, instead of directly.
+__Commit__ : We can understand this command by thinking of the words "history" or "revision" because this command is used for saving your work and keeps a copy of every changes. It sends the newest changes to a repository. However, it only saves changes to our local repository.
+__Fetch__ : 
