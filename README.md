@@ -9,7 +9,7 @@ Go to https://github.com/join and sign up for Github with your UCID.
 
 Next step is to connect Github and Webstorm:
 Enter Webstorm and click CTRL+ALT+S for System Preference. Select Version Control Git and enter your path to your GIT.exe into the space next to "Path to GIT executable". 
-  - To locate your GIT.exe file on Windows, 
+  - To locate your GIT.exe file on Windows, go to file explorer, 'this pc", "windows :C", program files, 
 We also have to add our Github password to Webstorm. So, in System Preference, select "Appearance and Behavior" from the drop down and click system settings and then password. Add location for the password file and click Ok. 
 Don't exit from Webstorm. Stay on the same page. Now, select Version Control and then "Git" from the left side to test whether or not Git is connected to Webstorm. Make sure the correct GIT.exe is pasted into the box next to "Path to GIT executable" and click on "Test". If Git and Webstorm are connected successfully, you will receive the message “Git Executed Successfully.”
 
