@@ -63,4 +63,25 @@ A NEW PAGE:
 - Next to your repository name, click the pencil shaped icon 
 - This is your README file where you can write a description about your repository
 - This is only a test, so for now write something like "This is my first repository". It could be anything, just something to help you remember what it is the next time you visit
-- Finally, click "commit changes". 
+- Finally, click "commit changes"
+
+NOW, LET'S EDIT AN HTML TEST FILE AND UPLOAD TO GITHUB! 
+- In Webstorm, from the top left corner, select "File", hoover over "New", and click "New Project"
+- Make sure "Empty Project" is selected for now
+- Near "Location", choose where you want to put your first HTML file and then click "Create" from the bottom right
+- A new window will appear with text in the middle describing some shortcuts of Webstorm, such as "Search Everywhere Double Shift", etc.
+- Locate "File" from the top left, hoover over "New", and this time select "HTML File"
+- In the new pop up window, make sure "HTML 5 File" is selected and name your file, such as "MyfirstHTMLfile" or "FirstHTMLfile"
+
+LET'S GET TO CODING! (JUST KIDDING, WE'RE NOT THERE YET):
+- An HTML file will open in a new window
+- You will the word "Title", highlighted in blue in the middle of the screen, in between <title> & <title>
+   - It will look like this: <title>Title<title>
+- Replace the word "Title" with any word or sentence of your choice. For example: "Hi, my name is Alex"
+   - Make sure to use quotation before and after writing your word/sentence
+
+RUN THE FILE TO TEST IF IT WORKED:
+- When you're done typing, put your mouse on that window and right click on your mouse
+- Under "Generate", click on "Run"......" the name of your HTML file that you named should appear nex to "RUN"
+   - OR press CTRL+SHIFT+F10
+- Now, you should be redirected to a page on your web browser. The title of the web browser should be what you typed in between "<title><title>"
