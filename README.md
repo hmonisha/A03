@@ -75,47 +75,47 @@ NOW, LET'S EDIT AN HTML TEST FILE AND UPLOAD TO GITHUB!
 
 LET'S GET TO CODING! (JUST KIDDING, WE'RE NOT THERE YET):
 - An HTML file will open in a new window
-- You will the word "Title", highlighted in blue in the middle of the screen, in between <title> & <title>
+- You will see the word "Title", highlighted in blue in the middle of the screen, in between <title> & <title>
    - It will look like this: <title>Title<title>
-- Replace the word "Title" with any word or sentence of your choice. For example: "Hi, my name is Alex"
-   - Make sure to use quotation before and after writing your word/sentence
+- Replace the word "Title" with any word or sentence of your choice. For example: <title>"Hi, my name is Alex"<title>
+   
 
 RUN THE FILE TO TEST IF IT WORKED:
 - When you're done typing, put your mouse on that window and right click on your mouse
-- Under "Generate", click on "Run"......" the name of your HTML file that you named should appear nex to "RUN"
-   - OR press CTRL+SHIFT+F10
+- Under "Generate", click on "Run"......" the name of your HTML file that you named should appear next to "run"
+   - OR press CTRL+SHIFT+F10 for shortcut
 - Now, you should be redirected to a page on your web browser. The title of the web browser should be what you typed in between "<title><title>"
 
 CREATE A REPOSITORY FROM WEBSTORM:
-- Select "VCS" from the top and "Import into Version Control"
+- Select "VSC" from the top and "Import into Version Control"
 - Give it a name and click "OK"
 
 IMPORT A REPOSITORY FROM GITHUB:
-- Click on "VCS" again, then "Checkout from version control", and then "Git"
-- On the empty box next to "URL", you will need to paste the URL from your repository
+- Click on "VSC" again, then "Checkout from version control", and then "Git"
+- On the empty box next to "URL", you will need to paste the URL from your Github repository
    - To do this, sign into Github
-   - Click on the black and white cat from the top left to access repositories
+   - Click on the black and white cat from the top left corner to access repositories
    - Select your repository, highlighted in blue
    - Click on "Code", highlighted in green from the right
    - Under "HTTPS", copy the code 
-- Go back to the pop up windows in Webstorm and paste the link inside the box next to "URL"
+- Go back to the pop up window in Webstorm and paste the link inside the box next to "URL"
 - Add the local path to your PC on the empty box next to "Directory"
 
 ADD FILES TO GIT & COMMIT YOUR CHANGES:
-- Right click on the window where your HTML file is open, as done for the previous step
+- Right click on the window where your HTML file is open, as we did in the previous step
 - Locate and hoover over "Git", then "Add". OR press CTRL+ALT+A
 - Right click again, then "Git", and this time click "Commit" or "Commit file", whichever shows up
 - Click "Commit" from the bottom
 
 NOW...
 - After the previous step, a new window will open
-   - It will direct you to sign into Github and follow the steps
-- Click "VCS" from the top again, then 'Import Version Control", and "Share Project on Github"
+   - It will direct you to sign into Github. Follow the steps
+- Click "VSC" from the top again, then 'Import Version Control", and "Share Project on Github"
 - Click "Share"
-   - If successful, you will receive this message: Successfully shared project on GitHub
+   - If successful, you will receive this message: "Successfully shared project on GitHub"
    
-PUSH CHANGE TO REMOTE REPOSITORY:
-- Locate "VSC" from the top on Webstorm, then "Git", and "Push" OR press Ctrl+Shift+K
+PUSH CHANGES TO REMOTE REPOSITORY:
+- Locate "VSC" from the top on Webstorm, then "Git", and "Push" OR press Ctrl+Shift+K for shortcut
 
 _Visit your repository to see the new file_
    
